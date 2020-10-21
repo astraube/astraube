@@ -1,6 +1,4 @@
-**astraube/astraube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![Mayank Patel](https://raw.githubusercontent.com/astraube/astraube/main/andre-straube.jpg)](https://andrestraube.com.br)
+[![Andrè Straube](https://raw.githubusercontent.com/astraube/astraube/main/andre-straube.jpg)](https://andrestraube.com.br)
 
 <p>
   <a href="https://twitter.com/AndreStraube">
