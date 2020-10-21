@@ -1,4 +1,4 @@
-[![Andrè Straube](https://raw.githubusercontent.com/astraube/astraube/main/andre-straube.jpg)](https://andrestraube.com.br)
+[![Andrè Straube](https://raw.githubusercontent.com/astraube/astraube/main/perfil.jpg)](https://andrestraube.com.br)
 
 <p>
   <a href="https://twitter.com/AndreStraube">
