@@ -1,16 +1,31 @@
-### Hi there 👋
-
-<!--
 **astraube/astraube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Mayank Patel](https://raw.githubusercontent.com/mayank091193/mayank091193/master/andre-straube.jpg)](https://andrestraube.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://twitter.com/mayank91193">
+    <img src="https://img.shields.io/twitter/follow/mayank91193?label=Follow%20%40mayank91193&style=social" alt="Twitter">
+  </a>&ensp;
+  <a href="https://www.reddit.com/user/mayank091193">
+    <img src="https://img.shields.io/reddit/user-karma/combined/mayank091193?style=social" alt="Reddit">
+  </a>&ensp;
+  <a href="https://stackoverflow.com/users/4763038/mayank-patel?tab=profile">
+    <img src="https://img.shields.io/stackexchange/stackoverflow/r/4763038?color=orange" alt="Stackoverflow">
+  </a>&ensp;
+  <a href="https://dev.to/mayank091193">
+    <img src="https://img.shields.io/badge/dev.to-Follow-lightgrey?style=social&logo=dev.to" alt="dev.to">
+  </a>
+</p>
+
+### Hi there 👋, I am Andre Straube. Known as astraube on internet!
+
+
+- 🔭 I’m currently working on open-source projects (Quasar framework and Vue.js)
+- 🌱 I’m currently learning laravel/lumen-framework
+- 🏗 I’m developing free templates and components
+- 💬 Ask me about Quasar framework and Vue.js! And many more technologies like Python-flask framework, JavaScript, jQuery, AngularJS ... 
+- 📫 How to reach me: mayank091193@gmail.com
+- 🔗 Personal website: https://mayank-patel.netlify.app/#/
+- 💖 Sponsor me to support my open source work. https://github.com/sponsors/mayank091193 
+- 🌴 Loves nature
+- 🖼️ Loves to draw pencil sketches
