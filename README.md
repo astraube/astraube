@@ -15,15 +15,13 @@
   </a>
 </p>
 
-### Hi there 👋, I am Andre Straube. Known as astraube on internet!
+  ### Hi there 👋, I am Andre Straube. Known as Straube by some, and Android Man by others!
 
 
-- 🔭 I’m currently working on open-source projects (Quasar framework and Vue.js)
-- 🌱 I’m currently learning laravel/lumen-framework
-- 🏗 I’m developing free templates and components
-- 💬 Ask me about Quasar framework and Vue.js! And many more technologies like Python-flask framework, JavaScript, jQuery, AngularJS ... 
-- 📫 How to reach me: contato@andrestraube.com.br
-- 🔗 Personal website: https://andrestraube.com.br
-- 💖 Sponsor me to support my open source work. https://github.com/sponsors/astraube 
-- 🌴 Loves nature
-- 🖼️ Loves to draw pencil sketches
+- 🔭 I am currently working exclusively on Android mobile projects in Kotlin / Java
+- 🏗 I'm developing native libraries in Kotlin, for the mobile development community.
+- 💬 Ask me about Android framework and Kotlin or Java! And many other technologies like VueJa, JavaScript, Linux, KAFKA, ElasticSearch, and others.
+- 📫 How to contact me: contato@andrestraube.com.br
+- 🔗 Personal website: www.andrestraube.com.br
+- 💖 Sponsor me to support my open source work. https://github.com/sponsors/astraube
+- 🌴 I love music, art, nature, carnival, and beer.
