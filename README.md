@@ -1,6 +1,9 @@
 [![Andrè Straube](https://raw.githubusercontent.com/astraube/astraube/main/perfil.jpg)](https://andrestraube.com.br)
 
 <p>
+  <a href="https://www.linkedin.com/in/andre-straube/">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin">
+  </a>&ensp;
   <a href="https://twitter.com/AndreStraube">
     <img src="https://img.shields.io/twitter/follow/AndreStraube?label=Andre%20Straube&style=social" alt="Twitter">
   </a>&ensp;
