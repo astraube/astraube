@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/andre-straube/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" width="19" height="19">
   </a>&ensp;
   <a href="https://twitter.com/AndreStraube">
     <img src="https://img.shields.io/twitter/follow/AndreStraube?label=Andre%20Straube&style=social" alt="Twitter">
