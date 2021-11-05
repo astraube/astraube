@@ -28,3 +28,11 @@
 - 🔗 Personal website: www.andrestraube.com.br
 - 💖 Sponsor me to support my open source work. https://github.com/sponsors/astraube
 - 🌴 I love music, art, nature, carnival, and beer.
+- 
+<br />
+<br />
+
+---
+
+<img align="left" alt="Andre's Github Stats" src="https://github-readme-stats.vercel.app/api?username=astraube&show_icons=true&hide_border=false&count_private=true" />
+<img align="left" alt="Andre's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astraube&layout=compact&hide=html" />
