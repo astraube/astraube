@@ -28,9 +28,26 @@
 - 🔗 Personal website: www.andrestraube.com.br
 - 💖 Sponsor me to support my open source work. https://github.com/sponsors/astraube
 - 🌴 I love music, art, nature, carnival, and beer.
-- 
 <br />
-<br />
+
+### Languages and Tools
+<p align="left">
+  <a href="https://developer.android.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="40" height="40"/>
+  </a>
+  <a href="https://kotlinlang.org" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://pt.wikipedia.org/wiki/JavaScript" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="VueJS" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
