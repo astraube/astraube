@@ -23,7 +23,7 @@
 
 - 🔭 I am currently working exclusively on Android mobile projects in Kotlin / Java
 - 🏗 I'm developing native libraries in Kotlin, for the mobile development community.
-- 💬 Ask me about Android framework and Kotlin or Java! And many other technologies like VueJa, JavaScript, Linux, KAFKA, ElasticSearch, and others.
+- 💬 Ask me about Android framework and Kotlin or Java! And many other technologies like VueJs, JavaScript, Linux, KAFKA, ElasticSearch, and others.
 - 📫 How to contact me: contato@andrestraube.com.br
 - 🔗 Personal website: www.andrestraube.com.br
 - 💖 Sponsor me to support my open source work. https://github.com/sponsors/astraube
