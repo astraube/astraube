@@ -26,7 +26,6 @@
 - 💬 Ask me about Android framework and Kotlin or Java! And many other technologies like VueJs, JavaScript, Linux, KAFKA, ElasticSearch, and others.
 - 📫 How to contact me: contato@andrestraube.com.br
 - 🔗 Personal website: www.andrestraube.com.br
-- 💖 Sponsor me to support my open source work. https://github.com/sponsors/astraube
 - 🌴 I love music, art, nature, carnival, and beer.
 <br />
 
