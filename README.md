@@ -1,5 +1,3 @@
-[![Andrè Straube](https://raw.githubusercontent.com/astraube/astraube/main/perfil.jpg)](https://andrestraube.com.br)
-
 <p>
   <a href="https://www.linkedin.com/in/andre-straube/">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin" width="19" height="19">
