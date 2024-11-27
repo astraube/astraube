@@ -1,5 +1,8 @@
 # Crypto Gateway
-https://www.pagcrypto.finance
+https://pagcrypto.finance
+https://paycrypto.finance
+
+ticket: 4531
 
 <br/>
 
