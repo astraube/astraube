@@ -3,8 +3,6 @@ https://pagcrypto.finance
 
 https://paycrypto.finance
 
-ticket: 4531
-
 <br/>
 
 ### Languages and Tools
